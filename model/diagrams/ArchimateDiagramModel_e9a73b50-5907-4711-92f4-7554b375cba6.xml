@@ -435,7 +435,7 @@
           href="RealizationRelationship_873454f2-7ef4-45fd-9f56-f9fcc89aceb9.xml#873454f2-7ef4-45fd-9f56-f9fcc89aceb9"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="570"
         y="732"
         width="145"
         height="73"/>
@@ -654,8 +654,8 @@
       id="c303f86f-7cb9-4d8b-bbe7-85609dfc4b27"
       targetConnections="b2d835e7-ba04-4226-88f0-b6787a602da7 4aaf5fa0-52d6-4302-8fc1-296d0a03ed88">
     <bounds
-        x="144"
-        y="744"
+        x="246"
+        y="738"
         width="121"
         height="61"/>
     <archimateElement
