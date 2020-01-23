@@ -6,8 +6,7 @@
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b3ccb0d2-4c33-4792-909d-44d3cbc66e73"
-      targetConnections="b4ad5836-ab51-47b5-bfa0-b5cc9764a840">
+      id="b3ccb0d2-4c33-4792-909d-44d3cbc66e73">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="db763ebb-d52c-400f-b93d-abfaf1cd3089"
@@ -60,26 +59,5 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_7a79c82a-88c2-410c-8f5e-b65ef3d710fd.xml#7a79c82a-88c2-410c-8f5e-b65ef3d710fd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="115604dd-1746-4402-b9c7-8eee798f20c4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b4ad5836-ab51-47b5-bfa0-b5cc9764a840"
-        source="115604dd-1746-4402-b9c7-8eee798f20c4"
-        target="b3ccb0d2-4c33-4792-909d-44d3cbc66e73">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_a4eacaeb-5ce7-4d17-bd18-14e2711121b1.xml#a4eacaeb-5ce7-4d17-bd18-14e2711121b1"/>
-    </sourceConnections>
-    <bounds
-        x="170"
-        y="180"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessInterface"
-        href="BusinessInterface_a7a80051-4695-45f4-989e-209c444bff63.xml#a7a80051-4695-45f4-989e-209c444bff63"/>
   </children>
 </archimate:ArchimateDiagramModel>
