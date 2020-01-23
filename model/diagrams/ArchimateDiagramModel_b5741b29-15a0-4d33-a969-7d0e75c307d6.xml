@@ -711,8 +711,8 @@
           href="ServingRelationship_0538c538-07e2-4ca0-9edf-26d1dc862ce3.xml#0538c538-07e2-4ca0-9edf-26d1dc862ce3"/>
     </sourceConnections>
     <bounds
-        x="623"
-        y="824"
+        x="648"
+        y="888"
         width="120"
         height="55"/>
     <archimateElement
@@ -785,8 +785,8 @@
           href="TriggeringRelationship_6f8e6fbe-81a0-4f19-8b70-19335d4706b8.xml#6f8e6fbe-81a0-4f19-8b70-19335d4706b8"/>
     </sourceConnections>
     <bounds
-        x="623"
-        y="956"
+        x="648"
+        y="960"
         width="120"
         height="55"/>
     <archimateElement
