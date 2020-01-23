@@ -121,8 +121,8 @@
           href="AssignmentRelationship_6f9bc473-b7f2-4086-a4c2-9601fcaa054a.xml#6f9bc473-b7f2-4086-a4c2-9601fcaa054a"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="48"
+        x="462"
+        y="41"
         width="120"
         height="55"/>
     <archimateElement
@@ -767,8 +767,8 @@
           href="TriggeringRelationship_397b8cde-da5e-44c5-9067-28c9f5b2d477.xml#397b8cde-da5e-44c5-9067-28c9f5b2d477"/>
     </sourceConnections>
     <bounds
-        x="1467"
-        y="95"
+        x="1416"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
