@@ -533,7 +533,7 @@
     </sourceConnections>
     <bounds
         x="540"
-        y="1104"
+        y="1080"
         width="169"
         height="73"/>
     <archimateElement
@@ -563,7 +563,7 @@
     </sourceConnections>
     <bounds
         x="516"
-        y="1140"
+        y="1200"
         width="217"
         height="109"/>
     <children
