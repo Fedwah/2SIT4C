@@ -9,8 +9,8 @@
       id="34b191f6-af45-48fd-97b3-36f1a62c910b"
       targetConnections="20fd5bc9-4a59-4eb5-97d9-2be021e6daab">
     <bounds
-        x="864"
-        y="180"
+        x="792"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,7 +22,7 @@
       id="4e9b7403-0e87-4024-a8aa-df9163b3c4c6"
       targetConnections="0963aad6-c254-401d-adcb-a41262922e74">
     <bounds
-        x="132"
+        x="300"
         y="246"
         width="120"
         height="55"/>
@@ -58,9 +58,9 @@
         source="7a3f4639-36a7-41f1-bf94-ca842b71fe4a"
         target="4e9b7403-0e87-4024-a8aa-df9163b3c4c6">
       <bendpoints
-          startX="-36"
+          startX="-48"
           startY="57"
-          endX="384"
+          endX="264"
           endY="3"/>
       <bendpoints
           startX="-204"
