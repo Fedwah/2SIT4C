@@ -8,7 +8,7 @@
       id="7a597124-f027-4c7a-91ab-e935d5f89324"
       targetConnections="8dfc09ed-0438-422a-9d9e-aa41401d007e">
     <bounds
-        x="780"
+        x="696"
         y="72"
         width="120"
         height="55"/>
@@ -21,7 +21,7 @@
       id="a3c10e0d-78d5-40de-842e-28d5c7db68fb"
       targetConnections="02b5933a-2ae7-45ca-81d0-a4f5146369d8">
     <bounds
-        x="192"
+        x="252"
         y="72"
         width="120"
         height="55"/>
@@ -74,8 +74,8 @@
           href="RealizationRelationship_23ab52b5-7656-499a-93f4-00fe44c60c0c.xml#23ab52b5-7656-499a-93f4-00fe44c60c0c"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="204"
+        x="467"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -114,7 +114,7 @@
     </sourceConnections>
     <bounds
         x="432"
-        y="348"
+        y="288"
         width="205"
         height="145"/>
     <children

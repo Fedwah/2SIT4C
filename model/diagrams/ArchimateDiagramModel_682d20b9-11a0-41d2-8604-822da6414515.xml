@@ -61,8 +61,8 @@
       id="b538a46b-5ae2-4040-a881-e30374bd1634"
       targetConnections="214369f4-8147-4544-9c98-376d8b984cdd">
     <bounds
-        x="1056"
-        y="216"
+        x="1104"
+        y="516"
         width="120"
         height="55"/>
     <archimateElement
@@ -74,8 +74,8 @@
       id="a7533b82-325d-4d00-9650-7861d6853e7d"
       targetConnections="e6a104d1-6cd5-46a3-99ed-cccee3e29c70">
     <bounds
-        x="1056"
-        y="300"
+        x="960"
+        y="516"
         width="120"
         height="55"/>
     <archimateElement
@@ -198,7 +198,7 @@
           x="156"
           y="48"
           width="145"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_d7e40af6-7ff1-4bd2-b2b2-f8fd319d4c76.xml#d7e40af6-7ff1-4bd2-b2b2-f8fd319d4c76"/>
@@ -459,7 +459,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="96664954-ee87-445b-a2e6-1cb807e3dbd2"
-      targetConnections="5dcbec7b-3ab9-4ae5-be09-c146a54c7197">
+      targetConnections="5dcbec7b-3ab9-4ae5-be09-c146a54c7197 4c186c2b-15db-4d1c-aa32-1cdc4fd833ce">
     <bounds
         x="1056"
         y="384"
@@ -526,9 +526,18 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dcbcf755-7fe3-407e-a9b6-e9ab2cffd899"
       targetConnections="a88a550e-c998-4e4d-9d55-a83bc496b97e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4c186c2b-15db-4d1c-aa32-1cdc4fd833ce"
+        source="dcbcf755-7fe3-407e-a9b6-e9ab2cffd899"
+        target="96664954-ee87-445b-a2e6-1cb807e3dbd2">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_50a94d5f-6d36-42ef-a782-9a3863499b34.xml#50a94d5f-6d36-42ef-a782-9a3863499b34"/>
+    </sourceConnections>
     <bounds
-        x="888"
-        y="120"
+        x="1043"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
